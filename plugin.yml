@@ -1,0 +1,9 @@
+name: ArmorInsure
+version: 1.1.0 Beta
+main: br.AtomGamers.AIE.ArmorInsure
+description: A Armor Insure Plugin.
+author: AtomGamers
+commands:
+  insure:
+    description: Comando do Plugin.
+    aliases: [ai, armorinsure, ainsure, armori]
